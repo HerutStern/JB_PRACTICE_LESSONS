@@ -5,3 +5,5 @@ set3 = my_set.isdisjoint(set2)
 set4 = set2.issubset(my_set)
 print(set3)
 print(set4)
+
+
