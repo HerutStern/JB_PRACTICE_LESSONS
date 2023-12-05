@@ -78,7 +78,7 @@
 
 # EX 2 - You have the following list -
 # your_list = [1, [2, [3, [4, 5], 6]], [7, 8], 9, [10]]
-#   Write a code using slicing operator that returns the following values:
+# Write a code using slicing operator that returns the following values:
 # 2
 # 3
 # 8
@@ -88,3 +88,9 @@
 # EX 3 - Write a Python program to get the largest number from a list.
 
 # EX 4 - Write a Python program to get the smallest number from a list.
+
+# EX 5 - Write a Python function that takes two lists and returns True
+#       if they have at least one common member.
+
+
+
