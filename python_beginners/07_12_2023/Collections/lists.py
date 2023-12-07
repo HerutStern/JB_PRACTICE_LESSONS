@@ -1,10 +1,13 @@
 
 
 # TYPE
+# NESTED LISTS
 
 
 # INDEXES
 # first is 0,last is -1
+# my_list.index(value) - index of a value
+
 
 
 # EX Print the last item of the list:
@@ -14,12 +17,13 @@
 # len(my_list)
 
 
-# RANGE [x:x]
+# RANGE [x:x] [:x] [x:]
 
 
 # my_list = ['red', 'yellow', 'blue', 'brown', 'black', 'pink', 'green']
-# EX 1 - Return the third, fourth, and fifth item using a range [x:x]:
-# EX 2 - Return the items from the beginning to, but NOT including, the last item:
+# EX 1 - Return the third, fourth, and fifth item:
+# EX 2 - Return the items from the beginning to,
+#        but NOT including, the last item:
 # EX 3 - Returns the items from item 3 to the end:
 
 
