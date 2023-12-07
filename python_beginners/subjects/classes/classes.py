@@ -16,6 +16,9 @@ class Profile:
     def type_of_class():
         print('class')
 
+class Address:
+    pass
+
 
 # The "if name equals main" block guards the print statement,
 # to ensure it executes only when the file is intentionally run directly as a script or application
