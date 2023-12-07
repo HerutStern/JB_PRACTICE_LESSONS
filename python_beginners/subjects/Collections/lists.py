@@ -4,6 +4,7 @@
 # NESTED LISTS
 
 
+
 # INDEXES
 # first is 0,last is -1
 # my_list.index(value) - index of a value
